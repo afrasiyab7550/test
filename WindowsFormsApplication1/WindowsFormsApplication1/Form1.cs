@@ -19,7 +19,7 @@ namespace WindowsFormsApplication1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hello I am Button");
+            MessageBox.Show("You are logged in");
         }
     }
 }
